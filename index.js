@@ -1,3 +1,6 @@
+// 작성자 : 권석준
+// email : soekjun@naver.com
+// write day : 2022-05-27
 const http = require('http');
 const express = require('express');
 const app = express();
